@@ -53,3 +53,7 @@ body {
 .operator {
   color: #2291f2;
 }
+
+.operator_danger {
+    color: #f80000;
+  }
